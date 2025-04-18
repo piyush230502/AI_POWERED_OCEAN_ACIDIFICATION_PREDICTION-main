@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas as pd # pip 
 import os
 from mlProject import logger
 from sklearn.linear_model import ElasticNet
