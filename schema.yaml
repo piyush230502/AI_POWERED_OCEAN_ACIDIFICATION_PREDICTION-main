@@ -1,0 +1,23 @@
+COLUMNS:
+  Treatment-Temperature: float64
+  Temp: float64
+  Sal: float64
+  pH: float64
+  TA: float64
+  Nitrite: float64
+  Nitrate: float64
+  Ammonium: float64
+  Silicate: float64
+  Phosphate: float64
+  DIC: float64
+  pCO2: float64
+  Omega-Cal: float64
+  Omega-Arag: float64
+  Bicarbonate-ion: float64
+  Carbonate-ion: float64
+  CO2: float64
+
+
+TARGET_COLUMN:
+  name: pH
+  

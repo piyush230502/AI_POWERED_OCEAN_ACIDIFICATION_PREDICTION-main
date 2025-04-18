@@ -1,0 +1,6 @@
+RandomForestRegressor:
+  n_estimators: 100
+  criterion: squared_error
+  max_depth: None
+  max_features: 1.0
+  random_state: 42
